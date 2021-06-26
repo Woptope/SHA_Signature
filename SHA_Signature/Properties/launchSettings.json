@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SHA_Signature": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Владимир\\TestProject\\File2.txt\" 10000"
+    }
+  }
+}
